@@ -1,0 +1,6 @@
+
+vendor/
+api_test
+_*
+*.test
+.DS_Store
